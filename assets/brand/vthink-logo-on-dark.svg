@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 480" width="1600" height="480">
+<style>@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&amp;family=IBM+Plex+Mono:wght@500&amp;display=swap');
+.n{font-family:'Bricolage Grotesque','Segoe UI',sans-serif;font-weight:800;font-size:190px;letter-spacing:-4px}
+.s{font-family:'IBM Plex Mono',monospace;font-weight:500;font-size:54px;letter-spacing:18px}</style>
+<rect width="1600" height="480" fill="#132447"/>
+<g transform="translate(80 80) scale(5)"><path d="M32 3 L57 17.5 L57 46.5 L32 61 L7 46.5 L7 17.5 Z" fill="none" stroke="#E39B12" stroke-width="3" stroke-linejoin="round"/><path d="M17 20 L26 20 L35 45 L30 45 Z" fill="#F4F6FB"/><path d="M30 45 L35 45 L47 20 L38 20 Z" fill="#E39B12"/></g>
+<text class="n" x="450" y="270" fill="#F4F6FB">VThink</text>
+<text class="s" x="458" y="370" fill="#E39B12">TECH HUB</text>
+</svg>

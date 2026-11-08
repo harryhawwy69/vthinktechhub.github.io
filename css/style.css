@@ -22,8 +22,10 @@ h1,h2,h3{font-family:var(--display);line-height:1.12;margin:0;text-wrap:balance}
 header.top{background:var(--ink);color:var(--on-ink);position:sticky;top:0;z-index:10}
 .bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:12px;padding-bottom:12px}
 .brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-family:var(--display);font-weight:800;font-size:1.12rem;letter-spacing:-.01em;white-space:nowrap}
-.brand svg{width:34px;height:34px;flex:none}
-.brand .v{color:var(--gold)}
+.brand svg{width:38px;height:38px;flex:none}
+.brand-text{display:flex;flex-direction:column;line-height:1}
+.brand-name{font-size:1.32rem;letter-spacing:-.02em}
+.brand-sub{font-family:var(--mono);font-weight:500;font-size:.62rem;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);margin-top:4px}
 .navlinks{display:flex;gap:20px;font-size:.92rem;overflow-x:auto;scrollbar-width:none}
 .navlinks::-webkit-scrollbar{display:none}
 .navlinks a{text-decoration:none;opacity:.85;white-space:nowrap;padding:6px 0}
